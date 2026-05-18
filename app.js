@@ -4,8 +4,8 @@
 // https://app.supabase.com → Settings → API
 // ============================================================
 
-const SUPABASE_URL      = 'https://TU_PROYECTO.supabase.co';
-const SUPABASE_ANON_KEY = 'TU_ANON_KEY';
+const SUPABASE_URL      = 'https://iuxatihfcpauzvolbhvm.supabase.co';
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Iml1eGF0aWhmY3BhdXp2b2xiaHZtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzkwNDMwMTQsImV4cCI6MjA5NDYxOTAxNH0.vqixx0b0gUweEM1JOQgkaPmTnHr0gd70S6Swo3TtMZw';
 
 // ============================================================
 // SUPABASE CLIENT
